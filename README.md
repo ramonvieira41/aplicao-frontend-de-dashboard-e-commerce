@@ -37,11 +37,11 @@ A aplicação é um frontend organizado por responsabilidade: `src/pages` conté
 
 ![Lista de pedidos com filtros](src/assets/screenshots/imagem-2.png)
 
-### Clientes
+### Produtos
 
 ![Resumo e lista de clientes](src/assets/screenshots/imagem-4.png)
 
-### Produtos
+### Clientes 
 
 ![Catálogo de produtos com filtros e indicadores de estoque](src/assets/screenshots/imagem-5.png)
 
