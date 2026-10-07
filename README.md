@@ -31,11 +31,11 @@ A aplicação é um frontend organizado por responsabilidade: `src/pages` conté
 
 ![Visão geral do painel ShopAdmin](src/assets/screenshots/imagem-1.png)
 
-![Produtos em alta, pedidos recentes e resumo do estoque](src/assets/screenshots/imagem-3.png)
+![Produtos em alta, pedidos recentes e resumo do estoque](src/assets/screenshots/imagem-2.png)
 
-### Pedidos
+### Pedidos de Forma mais Detalhada
 
-![Lista de pedidos com filtros](src/assets/screenshots/imagem-2.png)
+![Lista de pedidos com filtros](src/assets/screenshots/imagem-3.png)
 
 ### Produtos
 
